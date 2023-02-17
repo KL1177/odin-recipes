@@ -1,2 +1,26 @@
 /* style.css */
 
+img {
+    width: 1000px;
+    height: auto;
+}
+
+.link {
+    font-size: 30px;
+}
+
+.heading {
+    background-color: coral;
+    color: aquamarine;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+}
+
+.steps {
+    font-size: 20px;
+
+}
